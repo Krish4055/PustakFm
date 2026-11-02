@@ -1,0 +1,6 @@
+{
+  "name": "AskDB - Natural Language Team MySQL Explorer & Analytics",
+  "description": "Team platform to query company MySQL databases in plain English through n8n webhooks, inspect generated SQL, explore role-based schemas, and analyze data tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "AskDB - Natural Language Team MySQL Explorer & Analytics",
+  "short_name": "AskDB",
+  "description": "Team platform to query company MySQL databases in plain English through n8n webhooks, inspect generated SQL, explore role-based schemas, and analyze data tables.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#2563eb",
+  "background_color": "#0f172a",
+  "categories": ["business", "productivity", "developer"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
